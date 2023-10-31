@@ -14,7 +14,7 @@ Hello there! I'm Rafa Martínez, and I'm passionate about web development. My jo
 
 I'm always on the lookout for exciting projects and collaborations. Feel free to explore my repositories and connect with me if you're interested in working together, have questions, or just want to chat about the latest in web development. Let's create amazing things together!
 
-You can also find me on [LinkedIn]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/rafael-martínez-reyes-280376141/) if you'd like to connect and discuss opportunities or share insights on the ever-evolving world of web development.
+You can also find me on [LinkedIn](https://www.linkedin.com/in/rafael-martínez-reyes-280376141/) if you'd like to connect and discuss opportunities or share insights on the ever-evolving world of web development.
 
 Looking forward to connecting and learning from the incredible GitHub community!
 
