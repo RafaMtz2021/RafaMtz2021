@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RafaMtz2021/RafaMtz2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Certainly! Here's a sample GitHub introduction in English:
-
-**GitHub Introduction**
-
 Hello there! I'm Rafa Martínez, and I'm passionate about web development. My journey as a developer has led me to focus on technologies like ReactJS and Node.js, and I'm currently in the process of learning TypeScript and Next.js.
 
 🚀 Here's a little bit about me:
